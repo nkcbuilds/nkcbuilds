@@ -2,7 +2,6 @@
 
 **21yo self-taught builder from Delhi**  
 Turning ideas into shipped desktop + AI tools | Open to Junior Full-Stack / AI / Desktop roles in NCR
-=
 
 ### What I'm shipping right now
 - **Windows Screen Recorder with Auto-Zoom** → 60fps, smart cropping, fighting Win32 edge cases
