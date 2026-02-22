@@ -1,6 +1,6 @@
 # Hi, I'm Navneet 👋 (nkcbuilds)
 
-**21yo self-taught builder from Delhi**  
+**21yo builder from Delhi**  
 Turning ideas into shipped desktop + AI tools | Open to Junior Full-Stack / AI / Desktop roles in NCR
 
 ### What I'm shipping right now
