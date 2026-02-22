@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Navneet 👋 (nkcbuilds)
+21yo builder from Delhi
+Turning ideas into shipped desktop + AI tools | Open to Junior Full-Stack / AI / Desktop roles in NCR
 
-<!--
-**nkcbuilds/nkcbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm shipping right now
+Windows Screen Recorder with Auto-Zoom → 60fps, smart cropping, fighting Win32 edge cases
+Local AI Book Reader → PDF/EPUB + dark mode + zero hallucinations (still in stealth mode)
+Conway’s Game of Life + Minecraft Redstone “Claude” → pure logic & creativity
+Tech I breathe
+Python • JavaScript/TypeScript • Tauri/Electron • FastAPI • LLMs (local + prompt engineering) • React/Next.js
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect
+X → @nkcbuilds
